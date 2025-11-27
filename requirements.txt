@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+selenium==4.15.0
+requests==2.31.0
+pytesseract==0.3.10
+pillow==10.1.0
+opencv-python==4.8.1.78
+numpy==1.24.3
